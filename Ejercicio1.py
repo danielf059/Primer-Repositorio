@@ -18,4 +18,11 @@ print(f"Sentido inverso: {cadena[::-1]}")
 print(f"Sentido normal e inverso: {cadena[0:]} {cadena[::-1]}")
 
 #Cuarto ejercicio
-cadena =replace(,)"Separado"
+cadena = "Separado" 
+separar_con_comas =","                        
+cadena_con_comas = cadena.replace("",separar_con_comas)  [1:-1]
+print(cadena_con_comas)
+
+
+
+
